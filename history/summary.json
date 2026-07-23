@@ -10,31 +10,31 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2517,
-    "timeDay": 2517,
-    "timeWeek": 2517,
-    "timeMonth": 2517,
-    "timeYear": 2517,
+    "time": 2296,
+    "timeDay": 2296,
+    "timeWeek": 2296,
+    "timeMonth": 2296,
+    "timeYear": 2296,
     "dailyMinutesDown": {}
   },
   {
     "name": "Portal de imagenes y pacientes",
-    "url": "https://sanaimagenes.sanasalud.cl",
-    "icon": "https://icons.duckduckgo.com/ip3/sanaimagenes.sanasalud.cl.ico",
+    "url": "https://imagenes.sanasalud.cl",
+    "icon": "https://icons.duckduckgo.com/ip3/imagenes.sanasalud.cl.ico",
     "slug": "portal-de-imagenes-y-pacientes",
     "status": "down",
-    "uptime": "9.12%",
-    "uptimeDay": "9.12%",
-    "uptimeWeek": "9.12%",
-    "uptimeMonth": "9.12%",
-    "uptimeYear": "9.12%",
+    "uptime": "0.20%",
+    "uptimeDay": "0.20%",
+    "uptimeWeek": "0.20%",
+    "uptimeMonth": "0.20%",
+    "uptimeYear": "0.20%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-07-23": 2
+      "2026-07-23": 110
     }
   },
   {
@@ -48,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1453,
-    "timeDay": 1453,
-    "timeWeek": 1453,
-    "timeMonth": 1453,
-    "timeYear": 1453,
+    "time": 1655,
+    "timeDay": 1655,
+    "timeWeek": 1655,
+    "timeMonth": 1655,
+    "timeYear": 1655,
     "dailyMinutesDown": {}
   }
 ]
