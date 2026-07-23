@@ -23,18 +23,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/sanaimagenes.sanasalud.cl.ico",
     "slug": "portal-de-imagenes-y-pacientes",
     "status": "down",
-    "uptime": "69.54%",
-    "uptimeDay": "69.54%",
-    "uptimeWeek": "69.54%",
-    "uptimeMonth": "69.54%",
-    "uptimeYear": "69.54%",
+    "uptime": "9.12%",
+    "uptimeDay": "9.12%",
+    "uptimeWeek": "9.12%",
+    "uptimeMonth": "9.12%",
+    "uptimeYear": "9.12%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-07-23": 0
+      "2026-07-23": 2
     }
   },
   {
