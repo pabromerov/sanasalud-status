@@ -4,18 +4,20 @@
     "url": "https://www.sanasalud.cl",
     "icon": "https://icons.duckduckgo.com/ip3/www.sanasalud.cl.ico",
     "slug": "sitio-principal",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.98%",
+    "uptimeDay": "99.97%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.98%",
     "time": 3200,
     "timeDay": 4267,
     "timeWeek": 3200,
     "timeMonth": 3200,
     "timeYear": 3200,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-07-25": 0
+    }
   },
   {
     "name": "Portal de imagenes y pacientes",
@@ -34,7 +36,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-07-25": 110,
+      "2026-07-25": 271,
       "2026-07-24": 1440,
       "2026-07-23": 618
     }
