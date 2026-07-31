@@ -4,19 +4,20 @@
     "url": "https://www.sanasalud.cl",
     "icon": "https://icons.duckduckgo.com/ip3/www.sanasalud.cl.ico",
     "slug": "sitio-principal",
-    "status": "up",
-    "uptime": "98.86%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "98.78%",
-    "uptimeMonth": "98.86%",
-    "uptimeYear": "98.86%",
+    "status": "down",
+    "uptime": "98.94%",
+    "uptimeDay": "99.87%",
+    "uptimeWeek": "98.76%",
+    "uptimeMonth": "98.94%",
+    "uptimeYear": "98.94%",
     "time": 2956,
     "timeDay": 4847,
     "timeWeek": 2968,
     "timeMonth": 2956,
     "timeYear": 2956,
     "dailyMinutesDown": {
-      "2026-07-25": 123
+      "2026-07-25": 123,
+      "2026-07-31": 2
     }
   },
   {
@@ -36,7 +37,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-07-31": 115,
+      "2026-07-31": 1082,
       "2026-07-30": 1440,
       "2026-07-29": 1440,
       "2026-07-28": 1440,
