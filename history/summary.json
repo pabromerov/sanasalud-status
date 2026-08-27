@@ -4,20 +4,21 @@
     "url": "https://www.sanasalud.cl",
     "icon": "https://icons.duckduckgo.com/ip3/www.sanasalud.cl.ico",
     "slug": "sitio-principal",
-    "status": "up",
-    "uptime": "99.51%",
-    "uptimeDay": "100.00%",
+    "status": "down",
+    "uptime": "99.59%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.51%",
-    "uptimeYear": "99.51%",
+    "uptimeMonth": "99.81%",
+    "uptimeYear": "99.59%",
     "time": 2982,
-    "timeDay": 2551,
-    "timeWeek": 3526,
-    "timeMonth": 2982,
+    "timeDay": 0,
+    "timeWeek": 2674,
+    "timeMonth": 3026,
     "timeYear": 2982,
     "dailyMinutesDown": {
       "2026-07-25": 123,
-      "2026-07-31": 84
+      "2026-07-31": 84,
+      "2026-08-27": 0
     }
   },
   {
@@ -37,7 +38,12 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-08-22": 41,
+      "2026-08-27": 1392,
+      "2026-08-26": 1440,
+      "2026-08-25": 1440,
+      "2026-08-24": 1440,
+      "2026-08-23": 1440,
+      "2026-08-22": 1440,
       "2026-08-21": 1440,
       "2026-08-20": 1440,
       "2026-08-19": 1440,
@@ -82,9 +88,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1999,
-    "timeDay": 1863,
-    "timeWeek": 1831,
-    "timeMonth": 1999,
+    "timeDay": 0,
+    "timeWeek": 1934,
+    "timeMonth": 1963,
     "timeYear": 1999,
     "dailyMinutesDown": {}
   }
